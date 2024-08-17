@@ -1,0 +1,5 @@
+** qbe-mode
+This is a simple syntax highlighting mode for QBE IR.
+
+** Usage
+Evaluate the Elisp file and run =qbe-mode=.
